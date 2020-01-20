@@ -68,3 +68,5 @@ sudo ETCDCTL_API=3 etcdctl member list \
   --cacert=/etc/etcd/ca.pem \
   --cert=/etc/etcd/kubernetes.pem \
   --key=/etc/etcd/kubernetes-key.pem
+
+  exit
