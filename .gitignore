@@ -31,3 +31,8 @@
 
 ## S/MIME message
 *.smime
+
+## Others
+*.json
+*.kubeconfig
+*.yaml
